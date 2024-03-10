@@ -1,0 +1,18 @@
+[submodule "challenges/misc/intro"]
+	path = challenges/misc/intro
+	url = git@github.com:NUHack-Newcastle/ctf-intro.git
+[submodule "challenges/misc/amazeing"]
+	path = challenges/misc/amazeing
+	url = git@github.com:NUHack-Newcastle/amazeing.git
+[submodule "challenges/forensics/superimpose"]
+	path = challenges/forensics/superimpose
+	url = git@github.com:NUHack-Newcastle/superimpose.git
+[submodule "challenges/web/eggs"]
+	path = challenges/web/eggs
+	url = git@github.com:NUHack-Newcastle/eggs.git
+[submodule "challenges/binary/locked-out"]
+	path = challenges/binary/locked-out
+	url = git@github.com:NUHack-Newcastle/locked-out.git
+[submodule "challenges/crypto/intermission"]
+	path = challenges/crypto/intermission
+	url = git@github.com:NUHack-Newcastle/intermission.git
