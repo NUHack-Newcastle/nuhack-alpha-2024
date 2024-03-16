@@ -1,18 +1,39 @@
 [submodule "challenges/misc/intro"]
 	path = challenges/misc/intro
 	url = git@github.com:NUHack-Newcastle/ctf-intro.git
-[submodule "challenges/misc/amazeing"]
-	path = challenges/misc/amazeing
-	url = git@github.com:NUHack-Newcastle/amazeing.git
 [submodule "challenges/forensics/superimpose"]
 	path = challenges/forensics/superimpose
 	url = git@github.com:NUHack-Newcastle/superimpose.git
-[submodule "challenges/web/eggs"]
-	path = challenges/web/eggs
-	url = git@github.com:NUHack-Newcastle/eggs.git
 [submodule "challenges/binary/locked-out"]
 	path = challenges/binary/locked-out
 	url = git@github.com:NUHack-Newcastle/locked-out.git
 [submodule "challenges/crypto/intermission"]
 	path = challenges/crypto/intermission
 	url = git@github.com:NUHack-Newcastle/intermission.git
+[submodule "challenges/crypto/snow"]
+	path = challenges/crypto/snow
+	url = git@github.com:NUHack-Newcastle/snow.git
+[submodule "challenges/osint/edward-hands"]
+	path = challenges/osint/edward-hands
+	url = git@github.com:NUHack-Newcastle/Edward-Hands.git
+[submodule "challenges/crypto/caesar-salad"]
+	path = challenges/crypto/caesar-salad
+	url = git@github.com:NUHack-Newcastle/CaesarSalad.git
+[submodule "challenges/misc/url-challenge"]
+	path = challenges/misc/url-challenge
+	url = git@github.com:NUHack-Newcastle/url-challenge.git
+[submodule "challenges/forensics/sound-of-silence"]
+	path = challenges/forensics/sound-of-silence
+	url = git@github.com:NUHack-Newcastle/sound-of-silence.git
+[submodule "challenges/forensics/call-me"]
+	path = challenges/forensics/call-me
+	url = git@github.com:NUHack-Newcastle/call-me.git
+[submodule "challenges/crypto/aes"]
+	path = challenges/crypto/aes
+	url = git@github.com:NUHack-Newcastle/aes.git
+[submodule "challenges/crypto/qraes"]
+	path = challenges/crypto/qraes
+	url = git@github.com:NUHack-Newcastle/QRAES.git
+[submodule "challenges/crypto/morse"]
+	path = challenges/crypto/morse
+	url = git@github.com:NUHack-Newcastle/morse.git
